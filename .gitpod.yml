@@ -1,0 +1,5 @@
+tasks:
+  - init: |
+      echo 'NOTE: Hello devs wWe are HAppy to see you in this repos organisation  '
+    command: |
+      echo 'NOTE: We dont give any config in the base directory,  so you can follow the folders/sublders tree the make your change with no probleme with gitpod initialize'
